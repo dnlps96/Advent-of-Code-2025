@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>Z_AOC25_TAG_1</NAME>
+    <NAME>Z_AOC25_TAG_08</NAME>
     <SUBC>1</SUBC>
     <RLOAD>D</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,7 +12,7 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Advent of Code 2025 Tag 1</ENTRY>
+     <ENTRY>Advent of Code 2025 Tag 8</ENTRY>
      <LENGTH>27</LENGTH>
     </item>
    </TPOOL>

@@ -1,15 +1,15 @@
 *&---------------------------------------------------------------------*
-*& Report Z_AOC25_VORLAGE
+*& Report Z_AOC25_TAG_09
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT z_aoc25_vorlage.
+REPORT z_aoc25_tag_09.
 
 DATA: lv_filename TYPE string,
       lt_data     TYPE TABLE OF string,
       lv_data     TYPE string.
 
-lv_filename = 'I:\Advent_of_Code\Tag_XX.txt'.
+lv_filename = 'I:\Advent_of_Code\Tag_09.txt'.
 
 CALL METHOD cl_gui_frontend_services=>gui_upload
   EXPORTING
