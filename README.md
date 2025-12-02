@@ -6,7 +6,7 @@ This repository holds my solutions in ABAP for the [Advent of Code 2025](https:/
 
 ##### [Day 1: Secret Entrance](/src/z_aoc25_tag_01.prog.abap)
 
-##### [Day 2: XXXX](/src/z_aoc25_tag_02.prog.abap)
+##### [Day 2: Gift Shop](/src/z_aoc25_tag_02.prog.abap)
 
 ##### [Day 3: XXXX](/src/z_aoc25_tag_03.prog.abap)
 
