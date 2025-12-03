@@ -8,7 +8,7 @@ This repository holds my solutions in ABAP for the [Advent of Code 2025](https:/
 
 ##### [Day 2: Gift Shop](/src/z_aoc25_tag_02.prog.abap)
 
-##### [Day 3: XXXX](/src/z_aoc25_tag_03.prog.abap)
+##### [Day 3: Lobby](/src/z_aoc25_tag_03.prog.abap)
 
 ##### [Day 4: XXXX](/src/z_aoc25_tag_04.prog.abap)
 
