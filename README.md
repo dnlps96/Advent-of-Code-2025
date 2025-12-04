@@ -10,7 +10,7 @@ This repository holds my solutions in ABAP for the [Advent of Code 2025](https:/
 
 ##### [Day 3: Lobby](/src/z_aoc25_tag_03.prog.abap)
 
-##### [Day 4: XXXX](/src/z_aoc25_tag_04.prog.abap)
+##### [Day 4: Printing Department](/src/z_aoc25_tag_04.prog.abap)
 
 ##### [Day 5: XXXX](/src/z_aoc25_tag_05.prog.abap)
 
