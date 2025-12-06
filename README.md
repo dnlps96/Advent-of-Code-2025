@@ -14,7 +14,7 @@ This repository holds my solutions in ABAP for the [Advent of Code 2025](https:/
 
 ##### [Day 5: Cafeteria](/src/z_aoc25_tag_05.prog.abap)
 
-##### [Day 6: XXXX](/src/z_aoc25_tag_06.prog.abap)
+##### [Day 6: Trash Compactor](/src/z_aoc25_tag_06.prog.abap)
 
 ##### [Day 7: XXXX](/src/z_aoc25_tag_07.prog.abap)
 
